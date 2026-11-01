@@ -8,15 +8,15 @@ I am just starting my journey into programming and software development.  🌱 I
 ---
 
 ### 🛠️ What I'm Learning & Using
-* **Languages:** HTML, CSS, JavaScript (Beginner)
+* **Languages:** Python (mainly:Beginner)
 * **Tools:** Git, GitHub, VS Code
-* **Current Projects:** Building simple web applications .
+* **Current Projects:** Building simple web applications.
 
 
 ---
 
 ### 📫 How to Reach Me
-* **GitHub:** [github.com/YOUR-USERNAME](https://github.com/lakshmikrishna-hue)!--
+* **GitHub:** [github.com/lakshmikrishna-hue](https://github.com/lakshmikrishna-hue)!--
 **lakshmikrishna-hue/lakshmikrishna-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 📫 Me: [...](https://www.linkedin.com/in/lakshmi-krishna-3a8ba1442/)
