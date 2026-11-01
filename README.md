@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
+
+### Hi there 👋 I'm a First-Year Computer Science Student!
+
+Welcome to my GitHub profile! 
+I am just starting my journey into programming and software development.  🌱 I’m currently learning  how to build things from scratch and exploring how technology works.
+
+---
+
+### 🛠️ What I'm Learning & Using
+* **Languages:** HTML, CSS, JavaScript (Beginner)
+* **Tools:** Git, GitHub, VS Code
+* **Current Projects:** Building simple web applications .
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshmikrishna-hue&show_icons=true&theme=radical)
+
+---
+
+### 📫 How to Reach Me
+* **GitHub:** [github.com/YOUR-USERNAME](https://github.com/lakshmikrishna-hue)!--
 **lakshmikrishna-hue/lakshmikrishna-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Me: [...](https://www.linkedin.com/in/lakshmi-krishna-3a8ba1442/)
+- 😄 Pronouns: She
+- ⚡ Fun fact: I am a newbie with very little knowledge of CS. Hoping to improve....
+- (Will change overtime)
+--
