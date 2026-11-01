@@ -12,10 +12,6 @@ I am just starting my journey into programming and software development.  🌱 I
 * **Tools:** Git, GitHub, VS Code
 * **Current Projects:** Building simple web applications .
 
----
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshmikrishna-hue&show_icons=true&theme=radical)
 
 ---
 
